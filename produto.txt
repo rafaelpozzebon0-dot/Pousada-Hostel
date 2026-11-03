@@ -1,0 +1,4 @@
+1	Água mineral	5.00
+2	Refrigerante	8.50
+3	Chocolate	6.00
+4	Kit de higiene	12.00
